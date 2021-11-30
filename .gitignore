@@ -1,0 +1,8 @@
+#indicar o nome de um arquivo
+#util.lib
+
+# Indicar um conjunto de arquivos
+#*.lib
+
+#indicar uma pasta para ser ignorada
+lib/
